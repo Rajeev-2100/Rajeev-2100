@@ -2,7 +2,7 @@
 
 ### I'm Rajeev Rawat
 
-#### I’m an aspiring web developer passionate about creating responsive and user-friendly websites. Currently, I’m focused on learning and practicing core web development skills to build real-world digital experiences.
+#### I’m an aspiring web developer passionate about creating responsive and user-friendly websites. Currently, I’m focused on learning and practicing core web development skills to build real-world project by neogCamp experiences.
 
 ---
 
