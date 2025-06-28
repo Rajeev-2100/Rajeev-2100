@@ -39,7 +39,7 @@ To become a full-stack developer who not only builds clean, functional web apps 
 ### 📫 Connect with Me
 - GitHub: https://github.com/Rajeev-2100
 - LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajeev-rawat-3b655733a/
-- Email: rajeevrawat2100gmail.com
+- Email: mailto:rajeevrawat2100@gmail.com
 - codeSandBox: https://codesandbox.io/dashboard/drafts?workspace=ws_5WoRyGJzPUbhoPf6LA5YQJ
 ---
 
