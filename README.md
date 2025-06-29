@@ -51,5 +51,3 @@ Aspiring web developer learning to build responsive, interactive websites with m
 
 ✨ *Aspiring web developer learning to build responsive, interactive websites with modern web technologies.*
 
-![Screenshot 2025-06-29 233311](https://github.com/user-attachments/assets/4621d66a-1bf9-4987-8c97-23429e57c412)
-
